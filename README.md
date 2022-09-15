@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jarask
 - 👀 I’m interested in computational biology, advanced microscopy, and spatial transcriptomics.
 - 👨‍💻 I mainly use Python and R, but I can also program in Java, C#, and look-alikes.
-- 🌱 I’m currently doing my Master's thesis in Computational Biomedicine with focus on spatial transcriptomics (especially Multiplexed Error-Robust Fluorescence In Situ Hybridization/MERFISH).
+- 🌱 I’m currently employed as a scientific assistant at University of Southern Denmark.
 - 📫 Feel free to contact me here on GitHub! 😎
 
 <!---
